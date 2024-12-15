@@ -1,4 +1,4 @@
-# StockWise Assistant
+# Smart Stock Tracker
 
 ## Description
 An interactive tool using APIs to fetch stock data and prices, display the latest news about the stock, and send a detailed report via email using SMTP.
