@@ -24,7 +24,7 @@ An interactive tool using APIs to fetch stock data and prices, display the lates
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/StockWise-Assistant.git
+   git clone https://github.com/MostafaHima/Smart-Stock-Tracker.git
    ```
 2. Navigate to the project directory:
    ```bash
